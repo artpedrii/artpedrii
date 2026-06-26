@@ -32,5 +32,5 @@ Aqui estão as tecnologias que estou estudando e utilizando nos meus projetos ac
 
 ### 📬 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arthur-pedrinho-de-paula)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-pedrinho-de-paula)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurppaula265@gmail.com)
