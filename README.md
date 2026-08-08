@@ -1,8 +1,8 @@
-# Olá! Eu sou o Arthur 👋
+# Olá! Eu sou o Arthur 
 
 Sou estudante de Ciência da Computação na Universidade Estadual de Maringá (UEM) em período integral. Atualmente, estou construindo uma base forte em Engenharia de Software, Algoritmos e POO, enquanto me aprofundo no desenvolvimento Web moderno.
 
-### 🚀 Tecnologias e Ferramentas
+###  Tecnologias e Ferramentas
 
 Aqui estão as tecnologias que estou estudando e utilizando nos meus projetos acadêmicos e pessoais:
 
@@ -21,7 +21,7 @@ Aqui estão as tecnologias que estou estudando e utilizando nos meus projetos ac
 
 ---
 
-### 📊 Minhas Estatísticas
+###  Minhas Estatísticas
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=artpedrii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Arthur" />
@@ -30,7 +30,7 @@ Aqui estão as tecnologias que estou estudando e utilizando nos meus projetos ac
 
 ---
 
-### 📬 Como me encontrar
+###  Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-pedrinho-de-paula)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurppaula265@gmail.com)
